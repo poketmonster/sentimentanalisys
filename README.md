@@ -1,7 +1,6 @@
-# sentimentanalisys
-NLP Sentiment Analisys
+# NLP Sentiment Analysis
 
-Ejercicio 2.  
+# Ejercicio 2.  
 
 Sentiment Analysis Objetivo: Construir un sistema de SA para el español
 
@@ -10,7 +9,7 @@ Recursos:
 •NLTKhttps://www.nltk.org/
 •Etc.
 
-Tarea: T1: TASS2017 (Task 1: Sentiment Analysis at Tweet level) 
+# Tarea: T1: TASS2017 (Task 1: Sentiment Analysis at Tweet level) 
 http://www.sepln.org/workshops/tass/2017/
 
 Datos: disponibles en Poliformat

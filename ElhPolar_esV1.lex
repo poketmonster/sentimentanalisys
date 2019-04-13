@@ -3698,8 +3698,6 @@ maldito_sea	negative
 úlcera	negative
 único	positive
 útil	positive
-
-# Interjections
 abajo	negative
 achachay	positive
 achalay	positive
@@ -3776,8 +3774,6 @@ vaya	negative
 vaya_por_dios	negative
 viva	positive
 ánimo	positive
-
-# Colloquialisms
 a_dedo	negative
 a_dos_velas	negative
 a_grito_pelado	negative
@@ -4030,9 +4026,6 @@ zoquete	negative
 zorra	negative
 zumbado	negative
 ácido	negative
-
-## Twitter
-# Twitter specific terms /items. usually hashtags.
 rt      positive
 tt      positive
 ht      positive
@@ -4042,8 +4035,6 @@ tks     positive
 thx     positive
 ty      positive
 wtf     negative
-
-# Terms extracted from a Twitter corpus. Mispelled words are included if they are frequent enough.
 Besitos	positive
 Besos	positive
 Bienvenido	positive
@@ -4797,8 +4788,6 @@ zarrías	negative
 éxito	positive
 ñam	positive
 útil	positive
-
-# Tourism domain terms
 Acogedor	positive
 Agradable	positive
 Amabilidad	positive
